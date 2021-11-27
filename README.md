@@ -7,7 +7,7 @@ Triage is the process of managing medical demand by assessing the symptoms of in
 [Link](https://colab.research.google.com/drive/1_TCeW8_lqL9SFJRBCHsKV6DC3FDktIKk?usp=sharing "Link") to the implementation of the project in Google Colab.
 
 ## Contributors
-- Priyesh Kumar Chaurasiya
+- Priyesh Kumar Chaurasia
 - Suhail Khan
 - Tanishq
 - Yoshin Narang
